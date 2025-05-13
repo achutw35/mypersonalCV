@@ -4,7 +4,7 @@ export const personalInfo = {
   location: "Suryabinayak 7, Bhaktapur",
   email: "contact@achutwagle.com",
   phone: "+977 9851321341", // Replace with actual phone number
-  photo: "/images/achut_pp.jpg", // Photo in public directory
+  photo: "./images/achut_pp.jpg", // Photo in public directory
   about: "I am a software developer specializing in Laravel with Filament package and currently expanding my expertise to React with Next.js. With a passion for creating efficient, user-friendly web applications, Likewise I am learning AI with Bishworaj Poudel, I bring a blend of backend and frontend skills to deliver comprehensive solutions.",
   socials: [
     {
